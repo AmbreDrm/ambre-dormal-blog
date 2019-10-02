@@ -5,4 +5,4 @@ title: "About me"
 
 This section also must include: 
 
-- first name/surname, teacher’s name, class name and academic year
+- Hi my name is Ambre Dormal, I'm in the second year of the bachelior in Biology. My english group is the number 2 with Ingrid Van Lancker as a teacher.
