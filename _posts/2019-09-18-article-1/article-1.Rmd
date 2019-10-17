@@ -1,8 +1,8 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Article 1 : The Ocean Cleanup Device in the Great Pacific Garbage Patch Is Finally Working"
 author:
-  - name: Nicolas Devilez
-date: 09-18-2019
+  - name: Ambre Dormal
+date: 10-16-2019
 categories:
   - elephant
   - track
@@ -17,28 +17,40 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
+![](image/screen_shot_2019-10-08_at_20210_pm.png__958x640_q85_crop_subsampling-2_upscale.png)
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| Words from the text     | Synonym/explanation in English                                                                              | French translation              |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| Tires                   | Rubber around the wheel                                                                                     | Des pneus                       |
+| A net                   | Mesh to catch things                                                                                        | Un filet                        |
+| A crate                 | A box                                                                                                       | Une caisse                      |
+| A recycling facility    | A place for recycling                                                                                       | Un centre de recyclage          |
+| A self-contained system | An independent system                                                                                       | Un système autonome             |
+| A swath of water        | A band of water = A water area                                                                              | Une bande d'eau, une zone d'eau |
+| An eyesore              | A pollution we can sea                                                                                      | Une pollution visuelle          |
+| To get entangle         | To tangle                                                                                                   | S'emmêler                       |
+| A fishing gear          | A fishing tool                                                                                              | Un engin de pêche               |
+| To be wounded           | To be hurted                                                                                                | Être blessé                     |
+| To leach                |  To lixiviate = separate (a substance) into soluble and insoluble constituents by the percolation of liquid | Lixivier                        |
+| To vow                  | To promise                                                                                                  | Promettre                       |
+| To held up              | To hold on                                                                                                  | Tenir bon                       |
+| The plastic harvested   | The plastic gathered                                                                                        | Le plastique récolté            |
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Researchers                  | Joe McCarthy and Erica Sanchez     |
+| Published in?                |  Global Citizen (10/08/2019)       |
+| General topic?               |  The latest Ocean Cleanup prototype is finally working and has been able to retrieve plastic from the sea.                         |
+| Procedure/what was examined? |Essay of the operation of the Ocean Cleanup  prototype in the Great Pacific + essay in harsh condition.|
+| Conclusions/discovery?       |   __1.__ Success of the first attempt with the Ocean Cleanup prototype + system for recycling plastic. __2.__ Development of a self-contained system in the Great Pacific Garbage Patch. __3.__ Working on prototypes resistant to harsh condition.        --> Ocean Cleanup will be able to expand its efforts.     |
+| Remaining questions?         |/|
 
 
-<https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
+<https://www.globalcitizen.org/en/content/ocean-cleanup-great-pacific-garbage-patch-2/>
 
 
 
