@@ -4,9 +4,9 @@ author:
   - name: Ambre Dormal
 date: 10-16-2019
 categories:
-  - elephant
-  - track
-preview: image/where-s-my-elephant.jpg
+  - pollution
+  - global warming
+preview: image/screen_shot_2019-10-08_at_20210_pm.png__958x640_q85_crop_subsampling-2_upscale.png
 output:
   distill::distill_article:
     self_contained: false
