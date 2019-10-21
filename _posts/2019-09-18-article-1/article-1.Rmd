@@ -49,7 +49,9 @@ knitr::opts_chunk$set(echo = FALSE)
 | Conclusions/discovery?       |   __1.__ Success of the first attempt with the Ocean Cleanup prototype + system for recycling plastic. __2.__ Development of a self-contained system in the Great Pacific Garbage Patch. __3.__ Working on prototypes resistant to harsh condition.        --> Ocean Cleanup will be able to expand its efforts.     |
 | Remaining questions?         |/|
 
+Link for the pdf of the text with highlighted vocabulary : <https://github.com/AmbreDrm/ambre-dormal-blog/blob/master/pdf/Article%201.pdf>
 
+Link for the article : 
 <https://www.globalcitizen.org/en/content/ocean-cleanup-great-pacific-garbage-patch-2/>
 
 
