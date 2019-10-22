@@ -18,8 +18,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ![](image/screen_shot_2019-10-08_at_20210_pm.png__958x640_q85_crop_subsampling-2_upscale.png)
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT : 
 
-## Vocabulary 
+Source of the article: <https://www.globalcitizen.org/en/content/ocean-cleanup-great-pacific-garbage-patch-2/>
+Word count: 638
+
+## II - VOCABULARY: See my version of the text with highlighted words 
 
 | Words from the text     | Synonym/explanation in English                                                                              | French translation              |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------- |
@@ -38,7 +42,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | To held up              | To hold on                                                                                                  | Tenir bon                       |
 | The plastic harvested   | The plastic gathered                                                                                        | Le plastique récolté            |
 
-## Analysis table 
+## III - ANALYSIS TABLE ABOUT THE STUDY: 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
@@ -51,8 +55,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Link for the pdf of the text with highlighted vocabulary : <https://github.com/AmbreDrm/ambre-dormal-blog/blob/master/pdf/Article%201.pdf>
 
-Link for the article : 
-<https://www.globalcitizen.org/en/content/ocean-cleanup-great-pacific-garbage-patch-2/>
 
 
 

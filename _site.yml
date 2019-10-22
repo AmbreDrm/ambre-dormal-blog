@@ -14,5 +14,6 @@ navbar:
 base_url:  https://AmbreDrm.github.io/ambre-dormal-blog/ 
 collections:
     posts:
+    disqus: ambre-dormal-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
