@@ -2,11 +2,11 @@
 title: "Article 1 : The Ocean Cleanup Device in the Great Pacific Garbage Patch Is Finally Working"
 author:
 name: "Ambre Dormal"
-date: "2019-10-16"
+date: 10-16-2019
 categories:
   - "Pollution"
   - "Global warming"
-preview: image/screen_shot_2019-10-08_at_20210_pm.png__958x640_q85_crop_subsampling-2_upscale.png
+preview: image/Ocean Cleanup.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![](image/screen_shot_2019-10-08_at_20210_pm.png__958x640_q85_crop_subsampling-2_upscale.png)
+![](image/Ocean Cleanup.png)
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT : 
 
