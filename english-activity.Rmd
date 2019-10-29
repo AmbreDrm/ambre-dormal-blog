@@ -12,3 +12,6 @@ title: "My english activity log"
 
 # Reading : 
 10-21-2019 : I read some news about Amazon Rainforest
+
+# Others
+10-24-2019 : I trained myself to write the lyrics' songs on the app "LyricsTraining".

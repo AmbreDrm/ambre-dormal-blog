@@ -27,7 +27,7 @@ Word count: 638
 
 ## II - VOCABULARY: See my version of the text with highlighted words 
 
-| Words from the text     | Synonym/explanation in English                                                                              | French translation              |
+| Words from the text     | Synonym/explanation in English      | French translation              |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------- |
 | Tires                   | Rubber around the wheel                                                                                     | Des pneus                       |
 | A net                   | Mesh to catch things                                                                                        | Un filet                        |
