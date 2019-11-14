@@ -6,7 +6,7 @@ date: 10-16-2019
 categories:
   - "Pollution"
   - "Global warming"
-preview: _posts/2019-11-13-article-3/image/article3.jpg
+preview: 
 output:
   distill::distill_article:
     self_contained: false
@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](_posts/2019-11-13-article-3/image/article3bis.jpg)
+
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT : 
 
