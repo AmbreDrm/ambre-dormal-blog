@@ -5,8 +5,7 @@ name: "Ambre Dormal"
 date: 11-13-2019
 categories:
   - "Pollution"
-  - "Global warming"
-preview: 
+preview: image/article3.jpg
 output:
   distill::distill_article:
     self_contained: false

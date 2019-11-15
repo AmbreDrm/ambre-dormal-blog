@@ -6,7 +6,7 @@ date: 10-31-2019
 categories:
   - "Pollution"
   - "Global warming"
-preview:
+preview: image/article2.jpg
 output:
   distill::distill_article:
     self_contained: false
