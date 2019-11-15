@@ -16,6 +16,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![](image/article3.jpg)
+
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT : 
 
 
