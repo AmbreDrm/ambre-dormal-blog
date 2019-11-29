@@ -5,7 +5,7 @@ name: "Ambre Dormal"
 date: 11-13-2019
 categories:
   - "Pollution"
-preview: image/article3.jpg
+preview: image/poisson.png
 output:
   distill::distill_article:
     self_contained: false
