@@ -9,7 +9,7 @@
       "Human Activities"
     ],
     "preview": "posts/article4/image/article4.jpeg",
-    "last_modified": "2019-11-29T18:04:39+01:00"
+    "last_modified": "2019-12-13T20:08:44+01:00"
   },
   {
     "path": "posts/article3/",
@@ -21,7 +21,7 @@
       "Pollution"
     ],
     "preview": "posts/article3/image/poisson.png",
-    "last_modified": "2019-11-29T20:31:16+01:00",
+    "last_modified": "2019-12-13T20:09:12+01:00",
     "preview_width": 1200,
     "preview_height": 630
   },
@@ -33,10 +33,10 @@
     "date": "2019-10-31",
     "categories": [
       "Pollution",
-      "Global warming"
+      "Global Warming"
     ],
     "preview": "posts/2019-10-31-article-2/image/article2.jpg",
-    "last_modified": "2019-11-15T09:45:52+01:00"
+    "last_modified": "2019-12-13T20:10:03+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
