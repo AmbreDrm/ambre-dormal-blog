@@ -1,0 +1,19 @@
+---
+title: "Article 5 : Plastic pollution has killed half a million hermit crabs, study says"
+author:
+name: "Ambre Dormal"
+date: 12-13-2019
+categories:
+  - "Pollution"
+preview: image/hermit.jpeg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](image/bucket.jpg)
+
