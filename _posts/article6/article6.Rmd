@@ -1,0 +1,32 @@
+---
+title: "Article 6 : Toxic Chemicals Are Accumulating In Seabirds That Eat Plastic, Study Finds"
+author:
+name: "Ambre Dormal"
+date: 02-09-2020
+categories:
+  - "Pollution"
+preview: image/bird2.jpeg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](image/bird.jpeg)
+
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT : 
+
+
+
+Source of the article: <https://www.newsweek.com/toxic-chemicals-seabirds-eat-plastic-study-1485093>
+
+
+
+Word count: 572
+
+
+
+## II - VOCABULARY: See my version of the text with highlighted words 
