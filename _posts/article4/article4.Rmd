@@ -5,7 +5,7 @@ name: "Ambre Dormal"
 date: 11-29-2019
 categories:
   - "Human Activities"
-preview: image/article4.jpeg
+preview: image/whale.jpeg
 output:
   distill::distill_article:
     self_contained: false
@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![](image/article4bis.jpeg)
+![](image/whale2.jpeg)
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT : 
 

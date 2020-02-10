@@ -5,7 +5,7 @@ name: "Ambre Dormal"
 date: 11-13-2019
 categories:
   - "Pollution"
-preview: image/poisson.png
+preview: image/1.jpeg
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](image/bouteille.jpeg)
+![](image/article3.jpg)
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT : 
 
