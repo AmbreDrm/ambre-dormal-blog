@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/article7/",
+    "title": "Article 7: Ocean Acidification Is Literally Dissolving The Shells Of Dungeness Crabs ",
+    "description": {},
+    "author": [],
+    "date": "2020-02-24",
+    "categories": [
+      "Ocean acidification"
+    ],
+    "preview": "posts/article7/image/crab2.jpeg",
+    "last_modified": "2020-02-24T11:26:44+01:00"
+  },
+  {
     "path": "posts/article6/",
     "title": "Article 6 : Toxic Chemicals Are Accumulating In Seabirds That Eat Plastic, Study Finds",
     "description": {},
@@ -9,7 +21,7 @@
       "Pollution"
     ],
     "preview": "posts/article6/image/bird2.jpeg",
-    "last_modified": "2020-02-10T00:05:19+01:00"
+    "last_modified": "2020-02-24T11:25:10+01:00"
   },
   {
     "path": "posts/article5/",
