@@ -8,8 +8,8 @@
     "categories": [
       "Ocean acidification"
     ],
-    "preview": {},
-    "last_modified": "2020-04-07T19:18:36+02:00"
+    "preview": "posts/article7/image/crab.jpeg",
+    "last_modified": "2020-04-07T19:46:45+02:00"
   },
   {
     "path": "posts/article6/",
@@ -56,8 +56,8 @@
     "categories": [
       "Pollution"
     ],
-    "preview": {},
-    "last_modified": "2020-04-07T19:19:09+02:00"
+    "preview": "posts/article3/image/poisson.jpeg",
+    "last_modified": "2020-04-07T19:46:57+02:00"
   },
   {
     "path": "posts/2019-10-31-article-2/",
@@ -96,6 +96,6 @@
       "My English Activity Log"
     ],
     "preview": {},
-    "last_modified": "2020-04-07T19:18:01+02:00"
+    "last_modified": "2020-04-07T19:18:02+02:00"
   }
 ]

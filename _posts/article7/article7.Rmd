@@ -5,7 +5,7 @@ name: "Ambre Dormal"
 date: 02-24-2020
 categories:
   - "Ocean acidification"
-preview: image/crab1.jpeg
+preview: image/crab.jpeg
 output:
   distill::distill_article:
     self_contained: false
