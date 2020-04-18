@@ -1,0 +1,44 @@
+---
+title: "Bibliography"
+author: "Ambre Dormal"
+date: "18/04/2020"
+categories:
+  - "Bibliography"
+preview: image/biblio.jpeg
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Introduction :
+
+•	https://www.lefigaro.fr/conso/2018/09/11/20010-20180911ARTFIG00013-5-chiffres-chocs-demontrent-pourquoi-le-plastique-est-un-fleau-planetaire.php   consulted on 04/12/2020
+
+•	https://www.theseacleaners.org/en   consulted on 04/12/2020  
+
+•	https://en.wikipedia.org/wiki/Ocean_acidification   consulted on 04/12/2020     
+ 
+•	https://www.lefigaro.fr/conso/2018/09/11/20010-20180911ARTFIG00013-5-chiffres-chocs-demontrent-pourquoi-le-plastique-est-un-fleau-planetaire.php   consulted on 04/12/2020
+
+Analysis : 
+
+•	Article 1: https://www.globalcitizen.org/en/content/ocean-cleanup-great-pacific-garbage-patch-2/   consulted on 10/16/2019
+
+•	Article 2 : https://www.bbc.com/news/uk-wales-49567427   consulted on 10/31/2019
+
+•	Article 3 : https://www.bbc.com/news/science-environment-50375482   consulted on 11/13/2019
+
+•	Article 4 : https://www.uq.edu.au/news/article/2019/11/whales-stop-being-socialites-when-boats-are-about   consulted on 11/29/2019  
+
+•	Article 5 : https://www.bbc.com/news/science-environment-50661449   consulted on 12/13/2019  
+
+•	Article 6 : https://www.newsweek.com/toxic-chemicals-seabirds-eat-plastic-study-1485093   consulted on 02/09/2020  
+
+•	Article 7 : https://edition.cnn.com/2020/01/27/us/pacific-ocean-acidification-crabs-dissolving-shells-scn-trnd/index.html   consulted on 02/24/2020 
+
+
+Conclusion :
+
+•	https://theoceancleanup.com/   consulted on 04/14/2020

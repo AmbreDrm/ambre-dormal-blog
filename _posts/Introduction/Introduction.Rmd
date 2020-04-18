@@ -4,12 +4,15 @@ author: "Ambre Dormal"
 date: "18/04/2020"
 categories:
   - "Introduction"
+preview: image/ocean.jpeg
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+![](image/ocean.jpeg)
 
 I have decided to dedicate my blog to "Ocean health", a theme which is very close to my heart. Various topics will be covered in this portfolio such as plastic pollution, ocean acidification and the impact of human activities on marine life.
 
