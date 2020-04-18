@@ -1,16 +1,20 @@
 ---
 title: "Introduction"
-author: "Ambre Dormal"
-date: "18/04/2020"
+author:
+name: "Ambre Dormal"
+date: 04-18-2020
 categories:
   - "Introduction"
 preview: image/ocean.jpeg
-output: html_document
+output:
+  distill::distill_article:
+    self_contained: false
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
+
 
 ![](image/ocean.jpeg)
 
