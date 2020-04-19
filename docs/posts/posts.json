@@ -1,17 +1,5 @@
 [
   {
-    "path": "posts/Introduction/",
-    "title": "Introduction",
-    "description": {},
-    "author": [],
-    "date": "2020-04-18",
-    "categories": [
-      "Introduction"
-    ],
-    "preview": "posts/Introduction/image/ocean.jpeg",
-    "last_modified": "2020-04-18T18:10:10+02:00"
-  },
-  {
     "path": "posts/Conclusion/",
     "title": "Conclusion",
     "description": {},
@@ -22,6 +10,18 @@
     ],
     "preview": "posts/Conclusion/image/ocean.jpeg",
     "last_modified": "2020-04-18T18:10:38+02:00"
+  },
+  {
+    "path": "posts/Introduction/",
+    "title": "Introduction",
+    "description": {},
+    "author": [],
+    "date": "2020-04-18",
+    "categories": [
+      "Introduction"
+    ],
+    "preview": "posts/Introduction/image/ocean.jpeg",
+    "last_modified": "2020-04-19T15:04:06+02:00"
   },
   {
     "path": "posts/Bibliography/",
