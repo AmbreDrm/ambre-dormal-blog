@@ -49,9 +49,9 @@ Word count: 638
 | ---------------------------- | ------------------------------------------------------------------- |
 | __Researchers__                  | Joe McCarthy and Erica Sanchez     |
 | __Published in?__                |  Global Citizen (10/08/2019)       |
-| __General topic?__               |  The latest Ocean Cleanup prototype is finally working and has been able to retrieve plastic from the sea.                         |
+| __General topic?__               |  The latest Ocean Cleanup prototype is operating and it has been successful to catch plastic from the ocean.                         |
 | __Procedure/what was examined?__ |Essay of the operation of the Ocean Cleanup  prototype in the Great Pacific + essay in harsh condition.|
-| __Conclusions/discovery?__       |   __1.__ Success of the first attempt with the Ocean Cleanup prototype + system for recycling plastic. __2.__ Development of a self-contained system in the Great Pacific Garbage Patch. __3.__ Working on prototypes resistant to harsh condition.        --> Ocean Cleanup will be able to expand its efforts.     |
+| __Conclusions/discovery?__       |   __1.__ Success of the first attempt with the Ocean Cleanup prototype + system for recycling plastic. __2.__ Development of an independent system in  the Great Pacific Garbage Patch. __3.__ Working on prototypes resistant to harsh condition.        --> Ocean Cleanup will be able to improve its skills.     |
 | __Remaining questions?__         |/|
 
 Link for the pdf of the text with highlighted vocabulary : <https://github.com/AmbreDrm/ambre-dormal-blog/blob/master/pdf/Article%201.pdf>

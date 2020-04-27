@@ -44,8 +44,8 @@
     "categories": [
       "Ocean acidification"
     ],
-    "preview": "posts/article7/image/crab.jpeg",
-    "last_modified": "2020-04-07T19:46:46+02:00"
+    "preview": {},
+    "last_modified": "2020-04-27T13:25:14+02:00"
   },
   {
     "path": "posts/article6/",
@@ -56,8 +56,8 @@
     "categories": [
       "Pollution"
     ],
-    "preview": "posts/article6/image/bird2.jpeg",
-    "last_modified": "2020-02-24T11:25:10+01:00"
+    "preview": {},
+    "last_modified": "2020-04-27T13:20:06+02:00"
   },
   {
     "path": "posts/article5/",
@@ -69,7 +69,7 @@
       "Pollution"
     ],
     "preview": "posts/article5/image/hermit.jpg",
-    "last_modified": "2019-12-13T20:52:24+01:00"
+    "last_modified": "2020-04-27T13:21:13+02:00"
   },
   {
     "path": "posts/article4/",
@@ -80,8 +80,8 @@
     "categories": [
       "Human Activities"
     ],
-    "preview": "posts/article4/image/whale.jpeg",
-    "last_modified": "2020-02-10T20:43:41+01:00"
+    "preview": {},
+    "last_modified": "2020-04-27T13:15:44+02:00"
   },
   {
     "path": "posts/article3/",
@@ -92,8 +92,8 @@
     "categories": [
       "Pollution"
     ],
-    "preview": "posts/article3/image/poisson.jpeg",
-    "last_modified": "2020-04-07T19:46:58+02:00"
+    "preview": {},
+    "last_modified": "2020-04-27T13:16:22+02:00"
   },
   {
     "path": "posts/2019-10-31-article-2/",
@@ -106,7 +106,7 @@
       "Global Warming"
     ],
     "preview": "posts/2019-10-31-article-2/image/article2.jpg",
-    "last_modified": "2020-02-10T20:53:51+01:00"
+    "last_modified": "2020-04-27T13:16:55+02:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -118,7 +118,7 @@
       "Pollution"
     ],
     "preview": "posts/2019-09-18-article-1/image/screen_shot_2019-10-08_at_20210_pm.png__958x640_q85_crop_subsampling-2_upscale.png",
-    "last_modified": "2020-02-10T20:50:40+01:00",
+    "last_modified": "2020-04-27T13:17:16+02:00",
     "preview_width": 958,
     "preview_height": 640
   },

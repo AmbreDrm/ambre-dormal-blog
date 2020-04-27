@@ -33,7 +33,7 @@ Word count: 572
 
 | Word from the text         | Synonym/definition in English                                                                                                          | French translation                               |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| Plastic pellets            | Pastille in plastic                                                                                                                    | Pastilles en plastique                           |
+| Plastic pellets            | PPastille of plastic                                                                                                                    | Granulés de plastique                           |
 | Streaked shearwater chicks | A species of seabird                                                                                                                   | Poussins d'eau de mer striés ( puffin leucomèle) |
 | Fatty tissues              | A kind of body tissue containing stored fat that serves as a source of energy                                                          | Tissus adipeux                                   |
 | Pathway                    | A trail                                                                                                                                | Un sentier                                       |
@@ -53,7 +53,7 @@ Word count: 572
 | __Researchers__                  |   Aristos Georgiou (a science writer and news reporter for Newsweek)  |
 | __Published in?__                |  Newsweek (01/31/2020)       |
 | __General topic?__               |  Impact of plastic and plastic-derived chemicals on seabirds’ bodies.                        |
-| __Procedure/what was examined?__ | __1.__ Scientist fed young seabirds with plastic pellets in Japan. __2.__ Scientist monitor the evolution of the number of plastics in our ocean. __3.__ Scientist survey six seabird’s species living in Hawaii.
- | __Conclusions/discovery?__       |  __1.__ Birds accumulate chemical additives in their liver and fatty tissues 120,000 times more than it should be in normal conditions. __2.__ There is more and more plastic in marine wildlife, every year eight tons go in oceans __-->__ The number of marine animals that ingest plastic will also raise up especially seabirds. __3.__ By ingesting plastic birds are intoxicated by dangerous chemicals. __Moreover__: Plastic can hurt the digestive trac and be mortal for the animal. Plastic also contains hazardous chemicals dangerous and accumulate in the tissues of the animal.|
+| __Procedure/what was examined?__ | __1.__ Scientist nourished young seabirds with plastic granule in Japan. __2.__ Scientist monitor the evolution of the number of plastics in our ocean. __3.__ Scientist survey six seabird’s species in Hawaii.
+ | __Conclusions/discovery?__       |  __1.__ Birds accumulate chemicals in their liver and fatty tissues 120,000 times more than it should be in normal conditions. __2.__ There is more and more plastic in marine wildlife, every year eight tons go in oceans __-->__ The number of marine animals that ingest plastic will also raise up especially seabirds. __3.__ By ingesting plastic birds are intoxicated by dangerous chemicals. __Moreover__: Plastic can hurt the digestive trac and be mortal for the animal. Plastic also contains hazardous chemicals dangerous and accumulate in the tissues of the animal.|
 | __Remaining questions?__         |What the health impacts are on marine animals?|
 

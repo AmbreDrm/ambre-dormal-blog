@@ -52,6 +52,6 @@ Word count: 420
 | __Researchers__                  |   Rebecca A. Dunlop   |
 | __Published in?__                |  The Royal Society (11/29/2019)       |
 | __General topic?__               |  The effects of vessels noise on the communication and socialization of humpback whales.                        |
-| __Procedure/what was examined?__ |Comparison of the social interaction of the whales(thanks to   acoustic recordings and  land-based observations) when there are vessels or not.|
-| __Conclusions/discovery?__       |   In the presence of vessels -> communication and socializing range of whales reduces by a factor of four. __Problem__ : socializing is important for reproduction. __For this moment__ : negligible effect on the population.|
+| __Procedure/what was examined?__ |Comparison of the social interaction of the whales(thanks to   acoustic recordings and terrestrial observations) when there are vessels or not.|
+| __Conclusions/discovery?__       |   In the presence of vessels -> communication and socializing range of whales are four times lower. __Problem__ : socializing is important for reproduction. __For this moment__ : negligible effect on the population.|
 | __Remaining questions?__         |/|
